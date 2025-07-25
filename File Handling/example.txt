@@ -1,0 +1,5 @@
+Welcome to Python Programming!
+This file contains multiple lines.
+You can read this file line by line.
+File handling is very useful.
+Let's learn by doing.

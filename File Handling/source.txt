@@ -1,0 +1,5 @@
+This is the source file.
+We will copy this content to another file.
+Each line should be transferred properly.
+Make sure to use a loop.
+Good luck!

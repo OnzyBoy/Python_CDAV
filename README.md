@@ -82,12 +82,18 @@ These notebooks follow the **CDAV Python curriculum** step-by-step.
 ---
 
 ## ✨ How to Use  
-1. Clone the repo:  
+1. Clone this repository** to your local machine:  
 ```bash
 git clone https://github.com/YourUsername/CDAV-Python-Notebooks.git
-Open the notebooks in Jupyter Notebook or VS Code or Google Colabs.
-Run the code cells to practice Python! 🐍
 ```
+```
+cd CDAV-Python-Notebooks
+```
+Open the notebooks in Jupyter Notebook or VS Code 
+
+You can use Google Colabs as well. 😊
+Run the code cells to practice Python! 🐍
+
 
 🏆 Why This Repo is Cool
 ✅ Covers Python basics to advanced concepts

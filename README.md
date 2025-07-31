@@ -1,66 +1,97 @@
-This repository contains a collection of beginner-to-intermediate level Python exercises, practice snippets, and small-scale projects developed and tested in Jupyter Notebooks. These notebooks reflect my learning and exploration of core Python programming concepts through the Certificate of Data Analytics and Visualisation (CDAV) course at Strathmore University, with an emphasis on logic building, user interaction, file handling, error control, and real-world mini applications.
+# 📚 Python Mini Tasks & CDAV Practice  
 
-🔍 What You'll Find
-📌 Core Python Basics
+Welcome to my **Python Learning Journey** 🚀!  
+This repository contains **mini coding tasks** and **2 Python practice notebooks** from the **CDAV program** 💻.  
+Each file focuses on specific concepts in Python — from **basic syntax** to **NumPy** 📊.  
 
-Input/output operations
+---
 
-Conditional statements (if, elif, else)
+## 📂 Folder Structure  
 
-Loops (for, while)
+### 📁 **File Handling**  
+> Contains files to be used in 6_CDAV_python_File_Handling 
+Learn how to:
+- 📄 Read and write files  
+- 📜 Append and modify content  
+- 🗑 Delete or move files  
+---
 
-Functions and return values
+### 📁 **MiniTasks**  
+A collection of small Python exercises — **perfect for quick practice** ⚡.  
 
-Lists, dictionaries, and other data structures
+- **📒 Mini-dicts.ipynb**  
+  Focuses on **Python dictionaries** 🗂:  
+  - Creating & updating dictionaries  
+  - Looping through key-value pairs  
+  - Searching & deleting keys  
 
-⚠️ Error Handling
+- **📒 Mini-ifs.ipynb**  
+  Practice with **`if` statements** 🔀:  
+  - Basic conditions  
+  - Nested ifs  
+  - Combining conditions with `and` / `or`  
 
-Use of try...except, else, and finally blocks
+- **📒 Mini-lists.ipynb**  
+  Work with **lists** 📋:  
+  - Adding, removing, and slicing  
+  - Sorting and reversing  
+  - Filtering values  
 
-Graceful handling of KeyError, ZeroDivisionError, and ValueError
+- **📒 Mini-loops.ipynb**  
+  All about **loops** 🔁:  
+  - `for` and `while` loops  
+  - Looping through lists, dicts, and ranges  
+  - Breaking & continuing loops  
 
-🗃️ File Handling
+---
 
-Reading and writing text files
+## 🐍 **CDAV Python Files**  
 
-Using with open() safely
+These notebooks follow the **CDAV Python curriculum** step-by-step.  
 
-Appending data and preserving file contents
+1. **📘 1_CDAV_python_intro.ipynb**  
+   - Intro to Python  
+   - Printing, variables, data types  
+   - Simple user input  
 
-Simple contact manager system
+2. **⚖ 2_CDAV_python_comparisons.ipynb**  
+   - Comparison operators: `>`, `<`, `==`, `!=`  
+   - Boolean logic with `and` / `or` / `not`  
 
-🏦 ABC Bank Ledger Simulation
+3. **🗂 3_CDAV_python_Lists_Tuples_Dictionaries.ipynb**  
+   - Lists, tuples, and dictionaries  
+   - Accessing, modifying, and iterating through them  
 
-Dictionary-based simulation of user accounts
+4. **🔁 4_CDAV_python_loops.ipynb**  
+   - `for` loops & `while` loops  
+   - Loop patterns and control flow  
 
-Login with name/password verification
+5. **📂 6_CDAV_python_File_Handling.ipynb**  
+   - Reading and writing text files  
+   - File modes (`r`, `w`, `a`)  
+   - Working with file paths  
 
-Deposit, withdraw, and view ledger features
+6. **🏗 7_CDAV_python_OOP.ipynb**  
+   - Object-Oriented Programming in Python  
+   - Classes, objects, methods, and attributes  
 
-Ledger consistency and transaction tracking
+7. **📊 8_CDAV_python_NumPy.ipynb**  
+   - NumPy basics for numerical computing  
+   - Arrays, slicing, reshaping  
+   - Basic mathematical operations  
 
-📁 Mini CLI Programs
+---
 
-Contact book search
+## ✨ How to Use  
+1. Clone the repo:  
+```bash
+git clone https://github.com/YourUsername/CDAV-Python-Notebooks.git
+Open the notebooks in Jupyter Notebook or VS Code or Google Colabs.
+Run the code cells to practice Python! 🐍
+```
 
-Division calculator with validation
-
-Login systems with retry logic
-
-Input loops and menu-based command line tools
-
-📚 Audience
-These notebooks are great for:
-
-Python beginners who want to see how real-world logic can be implemented with basic tools.
-
-Students practicing for exams or project development.
-
-Anyone looking to explore how simple programs can handle real-life scenarios like user logins or transaction systems.
-
-💡 Goals
-Practice structured programming with real-time feedback.
-
-Build confidence in user input handling and logical flow.
-
-Learn how to debug and validate data cleanly without breaking the program.
+🏆 Why This Repo is Cool
+✅ Covers Python basics to advanced concepts
+✅ Organized into bite-sized notebooks
+✅ Uses real-world examples
+✅ Fun exercises to sharpen your skills 🚀

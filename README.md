@@ -9,8 +9,7 @@ Each file focuses on specific concepts in Python — from **basic syntax** to **
 ## 📂 Folder Structure  
 
 ### 📁 **File Handling**  
-Contains files to be used in 6_CDAV_python_File_Handling 
-Learn how to:
+Contains files to be used in 6_CDAV_python_File_Handling. Learn how to:
 - 📄 Read and write files  
 - 📜 Append and modify content  
 - 🗑 Delete or move files  
